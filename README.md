@@ -1,9 +1,8 @@
 # Simple_DataViz_CoVID19
-## With thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin [for clean Datasets :) ] </a>
+## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin [for clean Datasets :) ] </a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# coronavirus <a href='https://ramikrispin.github.io/coronavirus/'><img src='man/figures/coronavirus.png' align="right"  /></a>
 
 <!-- badges: start --->
 
@@ -27,37 +26,13 @@ More details available
 of the package dataset available
 [here](https://github.com/RamiKrispin/coronavirus-csv)
 
-A summary dashboard is available
-[here](https://ramikrispin.github.io/coronavirus_dashboard/)
 
-<img src="man/figures/2019-nCoV-CDC-23312_without_background.png" width="65%" align="center"/></a>
-
-<figcaption>
-
-Source: Centers for Disease Control and Prevention’s Public Health Image
-Library
-
-</figcaption>
 
 ## Important Note
 
 As this an ongoing situation, frequent changes in the data format may
 occur, please visit the package news to get updates about those changes
 
-## Installation
-
-Install the CRAN version:
-
-``` r
-install.packages("coronavirus") 
-```
-
-Install the Github version (refreshed on a daily bases):
-
-``` r
-# install.packages("devtools")
-devtools::install_github("RamiKrispin/coronavirus")
-```
 
 ## Usage
 
