@@ -1,5 +1,5 @@
 # Simple_DataViz_CoVID19
-## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin [for clean Datasets :)] </a>
+## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin [for clean Datasets and this main readme sheet :] </a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
