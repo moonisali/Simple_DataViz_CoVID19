@@ -1,5 +1,5 @@
 # Simple_DataViz_CoVID19
-## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin [for clean Datasets :) ] </a>
+## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin [for clean Datasets :)] </a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -31,17 +31,12 @@ of the package dataset available
 ## Important Note
 
 As this an ongoing situation, frequent changes in the data format may
-occur, please visit the package news to get updates about those changes
+occur, please visit the links cited above to update those changes
 
 
-## Usage
+## Glance at the DataSet(s)
 
-The package contains a single dataset - `coronavirus`:
 
-``` r
-library(coronavirus) 
-
-data("coronavirus")
 ```
 
 This `coronavirus` dataset has the following fields:
