@@ -12,7 +12,7 @@
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub
-commit](https://img.shields.io/github/last-commit/RamiKrispin/coronavirus)](https://github.com/RamiKrispin/coronavirus/commit/master)
+commit](https://img.shields.io/github/last-commit/moonisali/Simple_DataViz_CoVID19)](https://github.com/moonisali/Simple_DataViz_CoVID19/commit/master)
 <!-- badges: end -->
 
 The coronavirus package provides a tidy format dataset of the 2019 Novel
