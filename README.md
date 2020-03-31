@@ -1,5 +1,5 @@
 # A Simple DataViz for CoVID19 (Visualising Rates of China vs Rest)
-## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin </a> [for clean Datasets and this main readme sheet :]
+## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin </a> [for clean Datasets and contents of this main sheet :]
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
