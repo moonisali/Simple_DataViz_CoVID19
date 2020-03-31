@@ -1,4 +1,4 @@
-# A Simple DataViz for CoVID19 (Visualising Rates of China vs Rest)
+# A simple step by step tutorial for Visualising CoVID 19 rate (increase) using R 
 ## With special thanks to GitHub User <a href= 'https://github.com/RamiKrispin/'> RamiKrispin </a> [for clean Datasets and contents of this main sheet :]
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
